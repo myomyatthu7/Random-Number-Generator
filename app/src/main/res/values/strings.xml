@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomNumber Generator</string>
+    <string name="lucky_number_is">Lucky Number \nis</string>
+    <string name="generate">Generate</string>
+    <string name="skip_anim">Skip Animation</string>
+    <string name="ready">Ready?</string>
+    <string name="max_no">max no:</string>
+    <string name="sec">sec</string>
+</resources>
